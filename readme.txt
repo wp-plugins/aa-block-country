@@ -20,7 +20,7 @@ More features are coming soon ..
 
 <strong> How to use this plugin</strong>
 
-Insert anywhere the <strong>[sitemap]</strong> shortcode
+It is very easy to use, later we will add shortcode and tutorial via our youtube channel. Stay with us. 
 
 == Installation ==
 
